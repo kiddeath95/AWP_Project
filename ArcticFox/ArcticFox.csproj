@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Shared\Partials\_AboutAnimal.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\Partials\_Endangered.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\Partials\_Gallery.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\Partials\_Habitat.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Shared\Partials\_HowToHelp.cshtml" />
+  </ItemGroup>
+
+</Project>

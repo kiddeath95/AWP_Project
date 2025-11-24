@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArcticFox/1.0.0": {
+        "runtime": {
+          "ArcticFox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArcticFox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
